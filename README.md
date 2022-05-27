@@ -1,8 +1,8 @@
 # node-cart-mocha-chai
 Node.js and express shopping cart using POSTMAN with a mocha/chai test
 
-This application uses basic node.js and express to create a shopping cart with no HTML or CSS. Postman is used to check the API routes.
-A short mocha test is run on the welcome message.
+This application uses basic node.js and express to create a shopping cart with no HTML or CSS. Postman is used to check the API routes.[Cart.js](.\node_shopper\Carts.js)
+A short mocha test is run on the welcome message. [Test folder](.\node_shopper\test\cartsTest.js)
 
 ![1. Welcome route](./images/welcome-route.png)
 ![2. Postman GET cart route](./images/get-cart-postman.png)
